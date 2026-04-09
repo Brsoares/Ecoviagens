@@ -27,6 +27,9 @@ O coração do projeto é um banco de dados relacional desenhado para suportar o
 * **Modelagem TPT (Table Per Type):** Utilizada para separar entidades de *Hospedagem* e *Atividade*, mantendo a integridade como subtipos de *Oferta*.
 * **Escopo:** Dados de Junho/2024 a Junho/2025, integrando Reservas, Clientes, Operadores e Práticas Sustentáveis.
 
+<img width="1423" height="848" alt="image" src="https://github.com/user-attachments/assets/62e79070-4437-408b-b573-5e1551b0c78d" />
+
+
 ---
 
 ## 🔍 Principais Insights (Business Intelligence)
