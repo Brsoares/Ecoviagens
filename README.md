@@ -1,4 +1,4 @@
-# 🌿 EcoViagens: Plataforma de Dados para Turismo Sustentável
+<img width="1383" height="782" alt="image" src="https://github.com/user-attachments/assets/ca7e2b38-5208-4132-8660-432aa299cc35" /># 🌿 EcoViagens: Plataforma de Dados para Turismo Sustentável
 **Projeto End-to-End: Da Modelagem SQL à Estratégia de Negócio**
 
 📌 Visão Geral
@@ -7,8 +7,8 @@ Este projeto apresenta uma solução completa de dados para a **EcoViagens**, um
 ---
 
 ## 🔗 Acesso Rápido aos Resultados
-* 📊 [**Acessar Dashboard Interativo (Power BI)**]((https://app.powerbi.com/view?r=eyJrIjoiNjZmNzY4ZjMtYzBkNy00NDM4LWI4MTctM2FjNDBlZDEwOTY3IiwidCI6IjIxYjE5YTQzLTZlM2QtNGNjMy1hY2ViLWVkY2VhNjcwYzQ2ZiJ9))
-* 📑 [**Ver Apresentação Executiva (Canva)**]((https://canva.link/88hvu2m4ytxwszt))
+* 📊 [**Acessar Dashboard Interativo (Power BI)**](https://app.powerbi.com/view?r=eyJrIjoiNjZmNzY4ZjMtYzBkNy00NDM4LWI4MTctM2FjNDBlZDEwOTY3IiwidCI6IjIxYjE5YTQzLTZlM2QtNGNjMy1hY2ViLWVkY2VhNjcwYzQ2ZiJ9)
+* 📑 [**Ver Apresentação Executiva (Canva)**](https://canva.link/88hvu2m4ytxwszt)
 
 ---
 
@@ -77,7 +77,7 @@ Com base nos dados, propus um plano de ação dividido em horizontes:
 
 
 
-* `apresentacao_ecoviagens.pdf`: Versão exportada da **[Apresentação no Canva](https://canva.link/88hvu2m4ytxwszt)**.
+Versão exportada da **[Apresentação no Canva](https://canva.link/88hvu2m4ytxwszt)**.
 
 ---
 
