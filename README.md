@@ -1,3 +1,8 @@
+# 🌿 EcoViagens: Plataforma de Dados para Turismo Sustentável
+**Projeto End-to-End: Da Modelagem SQL à Estratégia de Negócio**
+
+---
+
 📌 Visão Geral
 Este projeto apresenta uma solução completa de dados para a **EcoViagens**, um marketplace de turismo sustentável. O objetivo foi transformar dados brutos de reservas e operações em inteligência de negócio, cobrindo todo o ciclo: modelagem de dados, ingestão, análise via SQL e visualização executiva.
 
