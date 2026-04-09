@@ -9,7 +9,7 @@ Este projeto apresenta uma solução completa de dados para a **EcoViagens**, um
 ---
 
 ## 🔗 Acesso Rápido aos Resultados
-* 📊 [**Acessar Dashboard Interativo (Power BI)**](https://app.powerbi.com/view?r=eyJrIjoiNjZmNzY4ZjMtYzBkNy00NDM4LWI4MTctM2FjNDBlZDEwOTY3IiwidCI6IjIxYjE5YTQzLTZlM2QtNGNjMy1hY2ViLWVkY2VhNjcwYzQ2ZiJ9)
+* 📊 [**Acessar Dashboard Interativo (Power BI)**](https://app.powerbi.com/view?r=eyJrIjoiMzBjMGM3OWItMGMzYS00YjlhLTk3MDctYzU2MjkxZGMyNzdmIiwidCI6IjIxYjE5YTQzLTZlM2QtNGNjMy1hY2ViLWVkY2VhNjcwYzQ2ZiJ9)
 * 📑 [**Ver Apresentação Executiva (Canva)**](https://canva.link/88hvu2m4ytxwszt)
 
 ---
