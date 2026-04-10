@@ -89,7 +89,7 @@ Versão exportada da **[Apresentação no Canva](https://canva.link/88hvu2m4ytxw
 ## ✍️ Autor
 **Bruno Soares**
 * [LinkedIn](https://www.linkedin.com/in/brunosoaresdamata)
-* [Portfólio](https://https://brsoares.my.canva.site/#in%C3%ADcio)
+* [Portfólio](https://brsoares.my.canva.site/#início)
 
 ---
 *Dados de referência: EBA*
